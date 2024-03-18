@@ -1,0 +1,5 @@
+This sheet contains a ***marked*** exercise. The marked exercise requires you to **submit** the project as a zip file to FASER (CE152, Lab Exercise Week 21). You must also **demonstrate** your program to one of the GLAs or module supervisors. Please check that your mark is recorded correctly. You can demonstrate your solution during Week 21 or Week 22. This marked exercise will constitute 10% of your total grade.
+
+This exercise will focus on **Unit 4 (Arrays), 5 (Files and exceptions) and 6 (2D Graphics)**. Please watch the corresponding videos on Moodle in preparation.
+
+Please remember that submitting someone else's work as your own is **considered an academic offence**. Refer to the appropriate guidelines or ask if you are uncertain about what this means.
